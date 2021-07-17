@@ -8,4 +8,4 @@ Bem vindo ao meu livro de receitas.
 
 ## ÍNDICE
 
-- Strogonoff de Carne
+- [Strogonoff de Carne](./receitas/strogonoff.md)
