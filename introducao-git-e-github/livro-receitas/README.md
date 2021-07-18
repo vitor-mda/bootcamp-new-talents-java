@@ -9,3 +9,4 @@ Bem vindo ao meu livro de receitas.
 ## ÍNDICE
 
 - [Strogonoff de Carne](./receitas/strogonoff.md)
+- [Rocambole de Doce de Leite](./receitas/rocambole.md)
