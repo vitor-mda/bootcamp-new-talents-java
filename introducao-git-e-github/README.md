@@ -1,6 +1,6 @@
 ## Sobre
 
-Prática do curso **"Introdução ao Git e ao GitHub"** presente no bootcamp [**"Everis New Talents - Java"**](https://github.com/vitor-mda/everis-new-talents-java).
+Prática do curso **["Introdução ao Git e ao GitHub"](https://digitalinnovation.one/cursos/introducao-ao-git-e-ao-github)** presente no bootcamp [**"Everis New Talents - Java"**](https://github.com/vitor-mda/everis-new-talents-java).
 
 ### Tópicos do curso
 
