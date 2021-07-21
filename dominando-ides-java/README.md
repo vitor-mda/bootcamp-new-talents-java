@@ -1,6 +1,6 @@
 ## Sobre
 
-Prática do curso **["Dominando IDEs Java"](https://digitalinnovation.one/cursos/dominando-ides-java)** presente no bootcamp [**"everis New Talents - Java"**](https://github.com/vitor-mda/everis-new-talents-java).
+Prática do curso **["Dominando IDEs Java"](https://digitalinnovation.one/cursos/dominando-ides-java)** (by [@cami-la](https://github.com/cami-la)) presente no bootcamp [**"everis New Talents - Java"**](https://github.com/vitor-mda/everis-new-talents-java).
 
 ### Tópicos do curso
 
