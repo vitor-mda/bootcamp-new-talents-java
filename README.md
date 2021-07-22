@@ -21,7 +21,7 @@ Links redirecionarão até o diretório com o conteúdo praticado.
 3) - [x] [Introdução ao Git e ao GitHub](introducao-git-e-github/ "ir para o diretório")
 4) - [x] SQL SERVER - Criando suas primeiras consultas
 5) - [x] Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso
-6) - [ ] [Dominando IDEs Java](dominando-ides-java/ "ir para o diretório")
+6) - [x] [Dominando IDEs Java](dominando-ides-java/ "ir para o diretório")
 7) - [ ] Desenvolvimento básico em Java
 8) - [ ] Introdução a orientação a objetos com Java
 9) - [ ] Estruturas de dados em Java
