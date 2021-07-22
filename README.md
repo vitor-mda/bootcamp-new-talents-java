@@ -2,7 +2,7 @@
 
 ## :book: Sobre
 
-Curso no formato _bootcamp_ apresentado pela ❤️🧡💛 [**Digital Innovation One**](https://github.com/digitalinnovationone) em parceria com a empresa 💚 [**everis**](https://www.everis.com/brazil/pt-br/home-br).
+Curso no formato _bootcamp_ apresentado pela ❤️🧡💛[**Digital Innovation One**](https://github.com/digitalinnovationone) em parceria com a empresa 💚[**everis**](https://www.everis.com/brazil/pt-br/home-br).
 
 Seu objetivo é capacitar novos desenvolvedores na linguagem :coffee: **Java** e dar oportunidade de participação em um processo seletivo para estágio.
 
@@ -18,10 +18,10 @@ Links redirecionarão até o diretório com o conteúdo praticado.
 
 1) - [x] Lógica de Programação Essencial
 2) - [x] Aprenda o que são Estruturas de Dados e Algoritmos
-3) - [x] [Introdução ao Git e ao GitHub](tree/master/introducao-git-e-github "ir para o diretório")
+3) - [x] [Introdução ao Git e ao GitHub](introducao-git-e-github/ "ir para o diretório")
 4) - [x] SQL SERVER - Criando suas primeiras consultas
 5) - [x] Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso
-6) - [ ] [Dominando IDEs Java](tree/master/dominando-ides-java "ir para o diretório")
+6) - [ ] [Dominando IDEs Java](dominando-ides-java/ "ir para o diretório")
 7) - [ ] Desenvolvimento básico em Java
 8) - [ ] Introdução a orientação a objetos com Java
 9) - [ ] Estruturas de dados em Java
