@@ -4,7 +4,7 @@
 
 Olá! :wave:
 
-Bem vindo ao meu livro de receitas.
+Bem vindo ao meu livro de receitas. Feito com o intuito de praticar comandos git e testar conceitos (resolução de conflitos, push, pull etc).
 
 ## ÍNDICE
 
