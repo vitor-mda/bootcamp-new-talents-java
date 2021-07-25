@@ -32,13 +32,9 @@ public enum Tetrapoda {
         this.name = name;
         this.speciesNumber = speciesNumber;
 
-        final String[][] exampleList = {
-                {"Mantella baroni", "Bombina bombina", "Ambystoma maculatum", "Ambystoma mexicanum"},
-                {"Desmodus rotundus", "Ailuropoda melanoleuca", "Sarcophilus harrisii", "Megaptera novaeangliae"},
-                {"Pavo cristatus", "Balaeniceps rex", "Casuarius casuarius", "Trichoglossus moluccanus"},
-                {"Hemidactylus turcicus", "Alligator mississippiensis", "Draco spilonotus", "Varanus komodoensis"}
-        };
-
-        examples = exampleList[index];
+        examples =  index == 0 ? new String[] {"Mantella baroni", "Bombina bombina", "Ambystoma maculatum", "Ambystoma mexicanum"} :
+                    index == 1 ? new String[] {"Desmodus rotundus", "Ailuropoda melanoleuca", "Sarcophilus harrisii", "Megaptera novaeangliae"} :
+                    index == 2 ? new String[] {"Pavo cristatus", "Balaeniceps rex", "Casuarius casuarius", "Trichoglossus moluccanus"} :
+                    index == 3 ? new String[] {"Hemidactylus turcicus", "Alligator mississippiensis", "Draco spilonotus", "Varanus komodoensis"} : new String[] {""};
     }
 }
