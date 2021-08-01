@@ -22,7 +22,7 @@ Links redirecionarão até o diretório com o conteúdo praticado.
 4) - [x] SQL SERVER - Criando suas primeiras consultas
 5) - [x] Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso
 6) - [x] [Dominando IDEs Java](dominando-ides-java/ "ir para o diretório")
-7) - [ ] [Desenvolvimento básico em Java](desenvolvimento-basico-em-java/ "ir para o diretório")
+7) - [x] [Desenvolvimento básico em Java](desenvolvimento-basico-em-java/ "ir para o diretório")
 8) - [ ] Introdução a orientação a objetos com Java
 9) - [ ] Estruturas de dados em Java
 10) - [ ] Primeiros passos em Java
