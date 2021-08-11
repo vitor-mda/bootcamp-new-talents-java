@@ -24,7 +24,7 @@ Links redirecionarão até o diretório com o conteúdo praticado.
 6) - [x] [Dominando IDEs Java](dominando-ides-java/ "ir para o diretório")
 7) - [x] [Desenvolvimento básico em Java](desenvolvimento-basico-em-java/ "ir para o diretório")
 8) - [x] Introdução a orientação a objetos com Java
-9) - [ ] Estruturas de dados em Java
+9) - [x] Estruturas de dados em Java
 10) - [ ] Primeiros passos em Java
 11) - [ ] Fundamentos de Arquitetura de Sistemas
 12) - [ ]  Arquitetura de Sistemas Avançado
