@@ -1,8 +1,8 @@
-# [Bootcamp everis New Talents - Java](https://digitalinnovation.one/bootcamps/everis-new-talents-java)
+# Bootcamp New Talents - Java
 
 ## :book: Sobre
 
-Curso no formato _bootcamp_ apresentado pela ❤️🧡💛[**Digital Innovation One**](https://github.com/digitalinnovationone) em parceria com a empresa 💚[**everis**](https://www.everis.com/brazil/pt-br/home-br).
+Curso no formato _bootcamp_ apresentado pela ❤️🧡💛[**Digital Innovation One**](https://github.com/digitalinnovationone).
 
 Seu objetivo é capacitar novos desenvolvedores na linguagem :coffee: **Java** e dar oportunidade de participação em um processo seletivo para estágio.
 
