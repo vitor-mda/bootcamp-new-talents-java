@@ -1,6 +1,6 @@
 ## Sobre
 
-Prática do curso **["Introdução ao Git e ao GitHub"](https://digitalinnovation.one/cursos/introducao-ao-git-e-ao-github)** (by [@Perkles](https://github.com/Perkles)) presente no bootcamp [**"everis New Talents - Java"**](../../../).
+Prática do curso **["Introdução ao Git e ao GitHub"](https://digitalinnovation.one/cursos/introducao-ao-git-e-ao-github)** (by [@Perkles](https://github.com/Perkles)) presente no bootcamp [**"New Talents - Java"**](../../../).
 
 ### Tópicos do curso
 

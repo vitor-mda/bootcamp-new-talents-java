@@ -1,6 +1,6 @@
 ## Sobre
 
-Prática do curso **["Desenvolvimento básico em Java"](https://digitalinnovation.one/cursos/desenvolvimento-basico-em-java)** presente no bootcamp **["everis New Talents - Java"](../../../)**.
+Prática do curso **["Desenvolvimento básico em Java"](https://digitalinnovation.one/cursos/desenvolvimento-basico-em-java)** presente no bootcamp **["New Talents - Java"](../../../)**.
 
 ### Tópicos do curso
 
