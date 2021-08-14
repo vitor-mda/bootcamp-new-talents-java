@@ -25,7 +25,7 @@ Links redirecionarão até o diretório com o conteúdo praticado.
 7) - [x] [Desenvolvimento básico em Java](desenvolvimento-basico-em-java/ "ir para o diretório")
 8) - [x] Introdução a orientação a objetos com Java
 9) - [x] Estruturas de dados em Java
-10) - [ ] Primeiros passos em Java
+10) - [x] [Primeiros passos em Java](primeiros-passos-em-java/ "ir para o diretório")
 11) - [ ] Fundamentos de Arquitetura de Sistemas
 12) - [ ]  Arquitetura de Sistemas Avançado
 13) - [ ] Introdução ao framework Spring Boot
