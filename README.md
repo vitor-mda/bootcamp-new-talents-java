@@ -26,7 +26,7 @@ Links redirecionarão até o diretório com o conteúdo praticado.
 8) - [x] Introdução a orientação a objetos com Java
 9) - [x] Estruturas de dados em Java
 10) - [x] [Primeiros passos em Java](primeiros-passos-em-java/ "ir para o diretório")
-11) - [ ] Fundamentos de Arquitetura de Sistemas
+11) - [x] Fundamentos de Arquitetura de Sistemas
 12) - [ ]  Arquitetura de Sistemas Avançado
 13) - [ ] Introdução ao framework Spring Boot
 14) - [ ] Trabalhando com Banco de Dados utilizando JDBC e JPA
