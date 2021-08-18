@@ -9,7 +9,7 @@ Exercício proposto durante a aula **Introdução ao JDBC -> Consultas com JDBC*
 
 
 
-Output da classe `ExercicioJDBC`:
+Output da classe [`ExercicioJDBC`](src/main/java/ "ir para diretório com as classes"):
 
 ```
 // impressão da lista antes de adicionar registros:
