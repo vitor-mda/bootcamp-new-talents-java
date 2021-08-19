@@ -9,6 +9,8 @@ Exercício proposto durante a aula **Introdução ao JDBC -> Consultas com JDBC*
 
 
 
+Para fins de consistência de resultado, sempre que um objeto `CursoDAO` é instanciado, a tabela `curso` é deletada e recriada através do método privado `createTable()` executado pelo construtor. As conexões com o banco de dados são geradas pelo método privado `getConnection()` e utilizadas dentro de blocos `try`-with-resources. O SGBD utilizado foi o mesmo proposto pelo curso, o MySQL.
+
 Output da classe [`ExercicioJDBC`](src/main/java/ "ir para diretório com as classes"):
 
 ```
@@ -41,4 +43,3 @@ Lista de cursos:
 	- Curso{id=3, nome=Estrutura de dados em Java, duracao_horas=10}
 	- Curso{id=4, nome=Trabalhando com Banco de Dados utilizando JDBC e JPA, duracao_horas=4}
 ```
-
