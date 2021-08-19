@@ -29,7 +29,7 @@ Links redirecionarão até o diretório com o conteúdo praticado.
 11) - [x] Fundamentos de Arquitetura de Sistemas
 12) - [x]  Arquitetura de Sistemas Avançado
 13) - [x] Introdução ao framework Spring Boot
-14) - [ ] Trabalhando com Banco de Dados utilizando JDBC e JPA
+14) - [x] Trabalhando com Banco de Dados utilizando JDBC e JPA
 15) - [ ] Microsserviços em Spring Cloud com Java
 16) - [ ] Desenvolvendo um sistema de gerenciamento de pessoas em API REST com Spring Boot
 17) - [ ] Desafios matemáticos em Java
