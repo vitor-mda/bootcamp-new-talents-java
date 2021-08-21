@@ -66,4 +66,3 @@ Hibernate:
 O aluno sorteado foi:
 	- Maria
 ```
-

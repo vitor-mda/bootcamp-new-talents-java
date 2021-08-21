@@ -35,10 +35,8 @@ public class ExercicioJPA {
         System.out.println(nomesAlunos);
 
         System.out.println("// consulta com Criteria Builder");
-        int n = (int)(Math.random()*10.0);
-        while(n > 6) {
-            n--;
-        }
+        int n = Math.min(6, (int)(Math.random()*10.0));
+
         CriteriaQuery<Aluno> critQuery = manager.getCriteriaBuilder().createQuery(Aluno.class);
         critQuery.from(Aluno.class);
         String nomeSorteado = manager.createQuery(critQuery).getResultList().get(n).getNome();
