@@ -16,4 +16,5 @@ Foram utilizadas as seguintes tecnologias/ferramentas:
   - **Spring Data JPA**;
   - **Spring Boot Actuator**;
   - **H2 Database**;
+  - **Hibernate Validator 6.2.0.Final** — inclusão pós-Spring Initializr não instruída pelo professor, mas necessária para processar anotações de validação;
 - **Heroku**, usando a buildpack [Subdir](https://github.com/timanovsky/subdir-heroku-buildpack) para especificar o diretório `person-api` como raíz do projeto;
