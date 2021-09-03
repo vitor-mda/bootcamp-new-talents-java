@@ -5,6 +5,7 @@ import org.springframework.stereotype.Service;
 import personapi.dto.request.PersonDTO;
 import personapi.dto.response.MessageResponseDTO;
 import personapi.entity.Person;
+import personapi.exception.PersonNotFoundException;
 import personapi.mapper.PersonMapper;
 import personapi.repository.PersonRepository;
 
@@ -36,5 +37,13 @@ public class PersonService {
                 .stream()
                 .map(personMapper::toDTO)
                 .collect(Collectors.toList());
+    }
+
+    public PersonDTO findById(Long id) throws PersonNotFoundException {
+        Person person = personRepository
+                .findById(id)
+                .orElseThrow(() -> new PersonNotFoundException(id));
+
+        return personMapper.toDTO(person);
     }
 }
