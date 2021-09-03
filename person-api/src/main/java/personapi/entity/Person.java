@@ -28,7 +28,7 @@ public class Person {
     @Column(nullable = false, unique = true)
     private String cpf;
 
-    private LocalDate birthdate;
+    private LocalDate birthDate;
 
     @OneToMany(cascade = {
             CascadeType.PERSIST, CascadeType.MERGE, CascadeType.REMOVE})
