@@ -8,6 +8,9 @@ import personapi.entity.Person;
 import personapi.mapper.PersonMapper;
 import personapi.repository.PersonRepository;
 
+import java.util.List;
+import java.util.stream.Collectors;
+
 @Service
 public class PersonService {
     private PersonRepository personRepository;
@@ -26,5 +29,12 @@ public class PersonService {
                 .builder()
                 .message("Created person with ID " + savedPerson.getId())
                 .build();
+    }
+
+    public List<PersonDTO> listAll() {
+        return personRepository.findAll()
+                .stream()
+                .map(personMapper::toDTO)
+                .collect(Collectors.toList());
     }
 }
