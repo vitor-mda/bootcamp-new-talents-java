@@ -21,7 +21,7 @@ import javax.validation.Valid;
 import java.util.List;
 
 @RestController
-@RequestMapping("/api/v1/people")
+@RequestMapping("/people")
 @AllArgsConstructor(onConstructor = @__(@Autowired))
 public class PersonController {
     private PersonService personService;
@@ -35,7 +35,6 @@ public class PersonController {
     @GetMapping
     public List<PersonDTO> listAll() {
         return personService.listAll();
-
     }
 
     @GetMapping("/{id}")
