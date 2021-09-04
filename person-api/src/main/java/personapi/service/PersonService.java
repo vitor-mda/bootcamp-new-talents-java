@@ -1,5 +1,6 @@
 package personapi.service;
 
+import lombok.AllArgsConstructor;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import personapi.dto.request.PersonDTO;
@@ -13,22 +14,18 @@ import java.util.List;
 import java.util.stream.Collectors;
 
 @Service
+@AllArgsConstructor(onConstructor = @__(@Autowired))
 public class PersonService {
     private PersonRepository personRepository;
 
     private final PersonMapper personMapper = PersonMapper.INSTANCE;
 
-    @Autowired
-    PersonService(PersonRepository personRepository) {
-        this.personRepository = personRepository;
-    }
-
     public MessageResponseDTO createPerson(PersonDTO personDTO) {
-        Person savedPerson = personRepository.save(personMapper.toModel(personDTO));
+        Person createdPerson = personRepository.save(personMapper.toModel(personDTO));
 
         return MessageResponseDTO
                 .builder()
-                .message("Created person with ID " + savedPerson.getId())
+                .message("Created person with ID " + createdPerson.getId())
                 .build();
     }
 
@@ -43,6 +40,13 @@ public class PersonService {
         return personMapper.toDTO(returnByIdIfExists(id));
     }
 
+    public MessageResponseDTO updateById(Long id, PersonDTO personDTO) throws PersonNotFoundException {
+        returnByIdIfExists(id);
+        Person updatedPerson = personRepository.save(personMapper.toModel(personDTO));
+
+        return createMessageResponse("Updated person with ID " + updatedPerson.getId());
+    }
+
     public void delete(Long id) throws PersonNotFoundException {
         personRepository.delete(returnByIdIfExists(id));
     }
@@ -51,5 +55,12 @@ public class PersonService {
         return personRepository
                 .findById(id)
                 .orElseThrow(() -> new PersonNotFoundException(id));
+    }
+
+    private MessageResponseDTO createMessageResponse(String message) {
+        return MessageResponseDTO
+                .builder()
+                .message(message)
+                .build();
     }
 }
