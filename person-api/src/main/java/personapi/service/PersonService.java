@@ -30,7 +30,8 @@ public class PersonService {
     }
 
     public List<PersonDTO> listAll() {
-        return personRepository.findAll()
+        return
+                personRepository.findAll()
                 .stream()
                 .map(personMapper::toDTO)
                 .collect(Collectors.toList());
