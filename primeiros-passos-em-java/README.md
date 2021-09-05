@@ -1,6 +1,6 @@
 ## Sobre
 
-Resolução dos desafios **"Primeiros passos em Java"** presente no bootcamp **["New Talents - Java"]()**.
+Resolução dos desafios **"Primeiros passos em Java"** presente no bootcamp **["New Talents - Java"](../../../)**.
 
 ### 🧠 Desafios
 
