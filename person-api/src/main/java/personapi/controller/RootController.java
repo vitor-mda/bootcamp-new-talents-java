@@ -15,7 +15,7 @@ public class RootController {
     public String showInfo() {
         return
                 "<div style=\"font-family: monospace\"><b>======================== I N S T R U C T I O N S ========================</b>" +
-                "<br><br>Access /person resource to perform GET, POST, PUT and DELETE HTTP methods." +
+                "<br><br>Access <a href=\"/person\">/person</a> resource to perform GET, POST, PUT and DELETE HTTP methods." +
                 "<br><br><ul><li>GET returns every recorded person;</li>" +
                 "<li>POST records a new person;</li>" +
                 "<li>GET (with /id) returns the identified person;</li>" +
