@@ -32,7 +32,7 @@ Links redirecionarão até o diretório com o conteúdo praticado.
 14) - [x] [Trabalhando com Banco de Dados utilizando JDBC e JPA](banco-de-dados-com-jdbc-e-jpa/ "ir para o diretório")
 15) - [x] Microsserviços em Spring Cloud com Java
 16) - [x] [Desenvolvendo um sistema de gerenciamento de pessoas em API REST com Spring Boot](person-api/ "ir para o diretório")
-17) - [ ] Desafios matemáticos em Java
+17) - [ ] [Desafios matemáticos em Java](desafios-matematicos-em-java/ "ir para o diretório")
 18) - [ ] Introdução a Qualidade de Software
 19) - [ ] Aprenda a aplicar testes com Java
 20) - [ ] Introdução ao JUnit 5
