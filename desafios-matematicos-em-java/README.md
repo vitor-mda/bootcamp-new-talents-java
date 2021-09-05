@@ -5,5 +5,5 @@ Resolução dos **"Desafios matemáticos em Java"** presentes no bootcamp **["Ne
 ### 🧠 Desafios
 
 1. - [x] [Área Direita](area-direita/src/)
-2. - [ ] Área Esquerda
+2. - [x] [Área Esquerda](area-esquerda/src/)
 3. - [ ] Área Inferior
