@@ -21,7 +21,7 @@ import javax.validation.Valid;
 import java.util.List;
 
 @RestController
-@RequestMapping("/people")
+@RequestMapping("/person")
 @AllArgsConstructor(onConstructor = @__(@Autowired))
 public class PersonController {
     private PersonService personService;
