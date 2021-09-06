@@ -34,7 +34,7 @@ Links redirecionarão até o diretório com o conteúdo praticado.
 16) - [x] [Desenvolvendo um sistema de gerenciamento de pessoas em API REST com Spring Boot](person-api/ "ir para o diretório")
 17) - [x] [Desafios matemáticos em Java](desafios-matematicos-em-java/ "ir para o diretório")
 18) - [x] Introdução a Qualidade de Software
-19) - [ ] Aprenda a aplicar testes com Java
+19) - [x] Aprenda a aplicar testes com Java
 20) - [ ] Introdução ao JUnit 5
 21) - [ ] Desenvolvimento de testes unitários para validar uma API REST de gerenciamento de estoques de cerveja
 22) - [ ] Resolvendo Desafios em Java
