@@ -5,5 +5,5 @@ Resolução dos desafios **"Resolvendo Desafios em Java"** presentes no bootcamp
 ### 🧠 Desafios
 
 1. - [ ] Preenchimento de Vetor III
-2. - [ ] Evitando Chuva
+2. - [x] [Evitando Chuva](evitando-chuva/src/)
 3. - [ ] Uniformes de final de ano
