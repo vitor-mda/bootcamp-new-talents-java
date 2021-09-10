@@ -37,4 +37,4 @@ Links redirecionarão até o diretório com o conteúdo praticado.
 19) - [x] Aprenda a aplicar testes com Java
 20) - [x] Introdução ao JUnit 5
 21) - [x] Desenvolvimento de testes unitários para validar uma API REST de gerenciamento de estoques de cerveja
-22) - [ ] Resolvendo Desafios em Java
+22) - [x] [Resolvendo Desafios em Java](resolvendo-desafios-em-java/ "ir para o diretório")
