@@ -43,7 +43,7 @@ Links redirecionarão até o diretório com o conteúdo praticado.
 
 #### New Talents #2 - Java
 
-23. - [ ] Projetos ágeis com SCRUM
+23. - [x] Projetos ágeis com SCRUM
 24. - [ ] Resolvendo Desafios de Código em Java
 25. - [ ] Primeiros passos com Java
 26. - [ ] Introdução a Programação em Java
