@@ -6,4 +6,4 @@ Resolução dos desafios **"Introdução a Programação em Java"** presentes no
 
 1. - [x] [Tuitando](tuitando/)
 2. - [x] [DDD](ddd/)
-3. - [ ] Conversão de Tempo
+3. - [x] [Conversão de Tempo](conversao-de-tempo/)

@@ -46,5 +46,5 @@ Links redirecionarão até o diretório com o conteúdo praticado.
 23. - [x] Projetos ágeis com SCRUM
 24. - [x] Resolvendo Desafios de Código em Java
 25. - [x] [Primeiros passos com Java](primeiros-passos-em-java-2/ "ir para o diretório")
-26. - [ ] Introdução a Programação em Java
+26. - [x] [Introdução a Programação em Java](introducao-a-programacao-com-java/ "ir para o diretório")
 27. - [ ] Primeiros desafios de código com Java
