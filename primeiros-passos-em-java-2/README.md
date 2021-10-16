@@ -6,4 +6,4 @@ Resolução dos desafios **"Primeiros passos com Java"** presentes no bootcamp *
 
 1. - [x] [Distância](distancia/)
 2. - [x] [Soma Simples](soma-simples/)
-3. - [ ] Dividindo X por Y
+3. - [x] [Dividindo X por Y](dividindo-x-por-y/)
