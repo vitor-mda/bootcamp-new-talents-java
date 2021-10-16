@@ -5,5 +5,5 @@ Resolução dos desafios **"Introdução a Programação em Java"** presentes no
 ### 🧠 Desafios
 
 1. - [x] [Tuitando](tuitando/)
-2. - [ ] DDD
+2. - [x] [DDD](ddd/)
 3. - [ ] Conversão de Tempo
