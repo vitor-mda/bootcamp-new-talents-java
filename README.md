@@ -51,5 +51,5 @@ Links redirecionarão até o diretório com o conteúdo praticado.
 
 #### New Talents #3 - Java
 
-28. - [ ] Resolvendo Desafios médios em Java
+28. - [x] [Resolvendo Desafios médios em Java](desafios-medios-em-java/ "ir para o diretório")
 29. - [ ] Resolvendo Desafios Intermediários em Java
