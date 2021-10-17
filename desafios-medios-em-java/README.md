@@ -6,4 +6,4 @@ Resolução dos desafios **"Resolvendo Desafios médios em Java"** presentes no 
 
 1. - [x] [Reservatório de Mel](reservatorio-de-mel/)
 2. - [x] [A Mensagem do padre do balão](a-mensagem-do-padre-do-balao/)
-3. - [ ] [Crescente e Decrescente](crescente-e-decrescente/)
+3. - [x] [Crescente e Decrescente](crescente-e-decrescente/)
