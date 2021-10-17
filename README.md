@@ -1,4 +1,4 @@
-# Bootcamp New Talents (#1 & #2) - Java
+# Bootcamp New Talents (#1, #2 & #3) - Java
 
 ## :book: Sobre
 
@@ -48,3 +48,8 @@ Links redirecionarão até o diretório com o conteúdo praticado.
 25. - [x] [Primeiros passos com Java](primeiros-passos-em-java-2/ "ir para o diretório")
 26. - [x] [Introdução a Programação em Java](introducao-a-programacao-com-java/ "ir para o diretório")
 27. - [x] [Primeiros desafios de código com Java](primeiros-desafios-de-codigo-em-java/ "ir para o diretório")
+
+#### New Talents #3 - Java
+
+28. - [ ] Resolvendo Desafios médios em Java
+29. - [ ] Resolvendo Desafios Intermediários em Java
