@@ -1,6 +1,6 @@
 ## Sobre
 
-Resolução dos desafios **"Introdução a Programação em Java"** presentes no bootcamp **["New Talents 2 - Java"](../../../)**.
+Resolução dos desafios **"Introdução a Programação em Java"** presentes no bootcamp **["New Talents #2 - Java"](../../../)**.
 
 ### 🧠 Desafios
 
